@@ -90,7 +90,7 @@
 [超链接内容](地址)
 ~~~
 
-[我的github]( https://www.baidu.com)
+[我的github](www.baidu.com)
 
 ## 8.列表
 
